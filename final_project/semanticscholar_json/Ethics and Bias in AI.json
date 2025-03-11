@@ -1,0 +1,1576 @@
+{
+  "total": 4,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "0afb19541a384e149e6f48476e49cc98071493a9",
+      "title": "Toward accountable human-centered AI: rationale and promising directions",
+      "citationCount": 25,
+      "authors": [
+        {
+          "authorId": "1734917",
+          "name": "Junaid Qadir"
+        },
+        {
+          "authorId": "2154582542",
+          "name": "Mohammad Qamar Islam"
+        },
+        {
+          "authorId": "1404786833",
+          "name": "Ala I. Al-Fuqaha"
+        }
+      ],
+      "citations": [
+        {
+          "paperId": "3962c3c7b51100c1c19ba4ff2e38a6ad53a7424d",
+          "title": "A theoretical framework for human-centered intelligent information services: A systematic review",
+          "citationCount": 1,
+          "authors": [
+            {
+              "authorId": "2323523963",
+              "name": "Qiao Li"
+            },
+            {
+              "authorId": "2324247560",
+              "name": "Yuelin Li"
+            },
+            {
+              "authorId": "2323498803",
+              "name": "Shuhan Zhang"
+            },
+            {
+              "authorId": "2323539605",
+              "name": "Xin Zhou"
+            },
+            {
+              "authorId": "2323909401",
+              "name": "Zhengyuan Pan"
+            }
+          ]
+        },
+        {
+          "paperId": "2835cf48646a68c56d1ed806628b72f7683ada9d",
+          "title": "THEORETICAL DIMENSIONS FOR INTEGRATING RESEARCH ON ANTICIPATORY GOVERNANCE, SCIENTIFIC FORESIGHT AND SUSTAINABLE S&T PUBLIC POLICY DESIGN",
+          "citationCount": 0,
+          "authors": [
+            {
+              "authorId": "2073389035",
+              "name": "Mateus Panizzon"
+            },
+            {
+              "authorId": "2092414547",
+              "name": "Raquel Janissek-Muniz"
+            }
+          ]
+        },
+        {
+          "paperId": "bed7b4a271b3510e585ceda2268945642a18b46c",
+          "title": "El impacto de la inteligencia artificial en la educación universitaria",
+          "citationCount": 0,
+          "authors": [
+            {
+              "authorId": "2341982609",
+              "name": "Pedro Alirio Sanchez Ramos"
+            },
+            {
+              "authorId": "2341982597",
+              "name": "Andrés Guillermo Jaimes Villamizar"
+            }
+          ]
+        },
+        {
+          "paperId": "16c473b6cad028d196cb25f2cc56d2a8b532d9ac",
+          "title": "AI-Driven Risk Management for Sustainable Enterprise Development: A Review of Key Risks",
+          "citationCount": 0,
+          "authors": [
+            {
+              "authorId": "2323198077",
+              "name": "Zhenglong Guo"
+            },
+            {
+              "authorId": "2323096506",
+              "name": "Runshuai Li"
+            }
+          ]
+        },
+        {
+          "paperId": "9a26ff70daf6f669a8fba4e96d1842ec8eac4d8a",
+          "title": "Navigating the Ethical Terrain of AI in Education: A Systematic Review on Framing Responsible Human-Centered AI Practices",
+          "citationCount": 9,
+          "authors": [
+            {
+              "authorId": "2322458695",
+              "name": "Yao Fu"
+            },
+            {
+              "authorId": "2322451714",
+              "name": "Zhenjie Weng"
+            }
+          ]
+        },
+        {
+          "paperId": "929ad35fdb27fa1f15307eaf7490338147f62719",
+          "title": "A Critical Evaluation of ChatGPT's Adherence to Responsible Artificial Intelligence Principles",
+          "citationCount": 0,
+          "authors": [
+            {
+              "authorId": "2297715481",
+              "name": "Sami Lababidi"
+            }
+          ]
+        },
+        {
+          "paperId": "e43f99e03d9d074c48eeb21e2e00f712aff73aec",
+          "title": "Exploring the potentials of ChatGPT for instructional assessment: Lecturers' attitude and perception",
+          "citationCount": 2,
+          "authors": [
+            {
+              "authorId": "117477790",
+              "name": "O. Opesemowo"
+            },
+            {
+              "authorId": "2307709351",
+              "name": "M. O. Abanikannda"
+            },
+            {
+              "authorId": "1478429393",
+              "name": "Rukayat Oyebola Iwintolu"
+            }
+          ]
+        },
+        {
+          "paperId": "115efb6260148f95ac6b93438bd18cb4adfdc77d",
+          "title": "Modern Computing: Vision and Challenges",
+          "citationCount": 76,
+          "authors": [
+            {
+              "authorId": "31043248",
+              "name": "S. Gill"
+            },
+            {
+              "authorId": "2278422099",
+              "name": "Huaming Wu"
+            },
+            {
+              "authorId": "151473641",
+              "name": "Panos Patros"
+            },
+            {
+              "authorId": "2278217829",
+              "name": "Carlo Ottaviani"
+            },
+            {
+              "authorId": "2219452948",
+              "name": "Priyansh Arora"
+            },
+            {
+              "authorId": "1423581026",
+              "name": "Víctor Casamayor-Pujol"
+            },
+            {
+              "authorId": "2278220106",
+              "name": "David Haunschild"
+            },
+            {
+              "authorId": "52050652",
+              "name": "A. Parlikad"
+            },
+            {
+              "authorId": "2278218058",
+              "name": "Oktay Cetinkaya"
+            },
+            {
+              "authorId": "1769104",
+              "name": "H. Lutfiyya"
+            },
+            {
+              "authorId": "3034012",
+              "name": "V. Stankovski"
+            },
+            {
+              "authorId": "2278419445",
+              "name": "Ruidong Li"
+            },
+            {
+              "authorId": "2278266302",
+              "name": "Yuemin Ding"
+            },
+            {
+              "authorId": "2259495664",
+              "name": "Junaid Qadir"
+            },
+            {
+              "authorId": "2238656571",
+              "name": "Ajith Abraham"
+            },
+            {
+              "authorId": "2264987471",
+              "name": "Soumya K. Ghosh"
+            },
+            {
+              "authorId": "2278393403",
+              "name": "Houbing Herbert Song"
+            },
+            {
+              "authorId": "1741531",
+              "name": "R. Sakellariou"
+            },
+            {
+              "authorId": "2244192343",
+              "name": "Omer F. Rana"
+            },
+            {
+              "authorId": "2278826716",
+              "name": "Joel J. P. C. Rodrigues"
+            },
+            {
+              "authorId": "2270850493",
+              "name": "Salil S. Kanhere"
+            },
+            {
+              "authorId": "1691109",
+              "name": "S. Dustdar"
+            },
+            {
+              "authorId": "2157668837",
+              "name": "Steve Uhlig"
+            },
+            {
+              "authorId": "1720142",
+              "name": "K. Ramamohanarao"
+            },
+            {
+              "authorId": "1709598",
+              "name": "R. Buyya"
+            }
+          ]
+        },
+        {
+          "paperId": "7a2883665e1cf98384fbfad9d45e35273727d239",
+          "title": "Penggunaan Chatbot Artificial Intelligence dan Pembangunan Karakter Mahasiswa: Sebuah Studi Empiris",
+          "citationCount": 1,
+          "authors": [
+            {
+              "authorId": "2137354152",
+              "name": "Anggi Prastyono"
+            },
+            {
+              "authorId": "2080201972",
+              "name": "B. Gautama"
+            },
+            {
+              "authorId": "2280498669",
+              "name": "Ihza Zhafranianto"
+            }
+          ]
+        },
+        {
+          "paperId": "0c114755e40706985e9f54b3bb3a52e8b77a2c2a",
+          "title": "AI ChatBots as Inherent Tools for Comprehensive Learning of Engineering Design: A Systematic review",
+          "citationCount": 1,
+          "authors": [
+            {
+              "authorId": "5930809",
+              "name": "N. Mthombeni"
+            },
+            {
+              "authorId": "2130733",
+              "name": "R. Maladzhi"
+            },
+            {
+              "authorId": "2238638549",
+              "name": "K. Moloi"
+            },
+            {
+              "authorId": "96392531",
+              "name": "T. Mashifana"
+            },
+            {
+              "authorId": "32320787",
+              "name": "M. Tsoeu"
+            },
+            {
+              "authorId": "2273992885",
+              "name": "F. Nemavhola"
+            }
+          ]
+        },
+        {
+          "paperId": "cfd6c3388fbecadedc5fdc11da2e510a0b89f7f6",
+          "title": "A Cross-Disciplinary Examination of the Instructional Uses of ChatGPT in Higher Education",
+          "citationCount": 28,
+          "authors": [
+            {
+              "authorId": "36653172",
+              "name": "S. Onal"
+            },
+            {
+              "authorId": "1411385965",
+              "name": "Derya Kulavuz-Onal"
+            }
+          ]
+        },
+        {
+          "paperId": "94a45955b0a1e86771e8d3cd867cd6553d418776",
+          "title": "Generative AI and ChatGPT: Applications, challenges, and AI-human collaboration",
+          "citationCount": 410,
+          "authors": [
+            {
+              "authorId": "2083553764",
+              "name": "Fiona Fui-Hoon Nah"
+            },
+            {
+              "authorId": "2223929238",
+              "name": "Ruilin Zheng"
+            },
+            {
+              "authorId": "2115670752",
+              "name": "Jingyuan Cai"
+            },
+            {
+              "authorId": "1746885",
+              "name": "K. Siau"
+            },
+            {
+              "authorId": "2853690",
+              "name": "Langtao Chen"
+            }
+          ]
+        },
+        {
+          "paperId": "5dfb1db9da727f21cce201cfd30373c0f056aa82",
+          "title": "AI Regulation Is (not) All You Need",
+          "citationCount": 24,
+          "authors": [
+            {
+              "authorId": "2092009719",
+              "name": "Laura Lucaj"
+            },
+            {
+              "authorId": "1715782",
+              "name": "Patrick van der Smagt"
+            },
+            {
+              "authorId": "50544083",
+              "name": "Djalel Benbouzid"
+            }
+          ]
+        },
+        {
+          "paperId": "e43c46f2c00df489e3a68b58bfcd3f87a84a3f59",
+          "title": "Uncovering and Quantifying Social Biases in Code Generation",
+          "citationCount": 12,
+          "authors": [
+            {
+              "authorId": "1679704",
+              "name": "Y. Liu"
+            },
+            {
+              "authorId": "2212169879",
+              "name": "Xiaokang Chen"
+            },
+            {
+              "authorId": "152673873",
+              "name": "Yan Gao"
+            },
+            {
+              "authorId": "2072382595",
+              "name": "Zhe Su"
+            },
+            {
+              "authorId": "2158120018",
+              "name": "Fengji Zhang"
+            },
+            {
+              "authorId": "2134434187",
+              "name": "Daoguang Zan"
+            },
+            {
+              "authorId": "153249455",
+              "name": "Jian-Guang Lou"
+            },
+            {
+              "authorId": "2218144207",
+              "name": "Pin-Yu Chen"
+            },
+            {
+              "authorId": "2103197703",
+              "name": "Tsung-Yi Ho"
+            }
+          ]
+        },
+        {
+          "paperId": "d553d008f643622e87e3ac061226865cad3b2928",
+          "title": "Engineering Education in the Era of ChatGPT: Promise and Pitfalls of Generative AI for Education",
+          "citationCount": 411,
+          "authors": [
+            {
+              "authorId": "1734917",
+              "name": "Junaid Qadir"
+            }
+          ]
+        },
+        {
+          "paperId": "542f3a7c4f400e54099d9bca4f037b679f359d84",
+          "title": "Artificial intelligence and sustainable development goals nexus via four vantage points",
+          "citationCount": 29,
+          "authors": [
+            {
+              "authorId": "1659070275",
+              "name": "Osama Nasir"
+            },
+            {
+              "authorId": "1405628083",
+              "name": "R. T. Javed"
+            },
+            {
+              "authorId": "2160604510",
+              "name": "Shivam Gupta"
+            },
+            {
+              "authorId": "2159774479",
+              "name": "Ricardo Vinuesa"
+            },
+            {
+              "authorId": "2139199675",
+              "name": "Junaid Qadir"
+            }
+          ]
+        },
+        {
+          "paperId": "a58e40b25310ef214279c80faf31127c15b64e92",
+          "title": "Developing smart city services using intent‐aware recommendation systems: A survey",
+          "citationCount": 6,
+          "authors": [
+            {
+              "authorId": "26352398",
+              "name": "Wajid Rafique"
+            },
+            {
+              "authorId": "145556030",
+              "name": "A. Hafid"
+            },
+            {
+              "authorId": "2139199675",
+              "name": "Junaid Qadir"
+            }
+          ]
+        },
+        {
+          "paperId": "37a72b3fd41b9bd8c2fef31f91a1e5cee14bf49d",
+          "title": "AI-Based Emotion Recognition: Promise, Peril, and Prescriptions for Prosocial Path",
+          "citationCount": 11,
+          "authors": [
+            {
+              "authorId": "24040678",
+              "name": "S. Latif"
+            },
+            {
+              "authorId": "2044083725",
+              "name": "Hafiz Shehbaz Ali"
+            },
+            {
+              "authorId": "145474282",
+              "name": "Muhammad Usama"
+            },
+            {
+              "authorId": "1814487",
+              "name": "R. Rana"
+            },
+            {
+              "authorId": "2028530929",
+              "name": "B. Schuller"
+            },
+            {
+              "authorId": "1734917",
+              "name": "Junaid Qadir"
+            }
+          ]
+        },
+        {
+          "paperId": "dd35797f32051afab84aeab0d67c16aa76b346da",
+          "title": "Secure and Trustworthy Artificial Intelligence-extended Reality (AI-XR) for Metaverses",
+          "citationCount": 25,
+          "authors": [
+            {
+              "authorId": "2146174432",
+              "name": "Adnan Qayyum"
+            },
+            {
+              "authorId": "40199901",
+              "name": "M. A. Butt"
+            },
+            {
+              "authorId": "2065536481",
+              "name": "Hassan Ali"
+            },
+            {
+              "authorId": "2175345003",
+              "name": "Muhammad Usman"
+            },
+            {
+              "authorId": "2873709",
+              "name": "O. Halabi"
+            },
+            {
+              "authorId": "1404786833",
+              "name": "Ala I. Al-Fuqaha"
+            },
+            {
+              "authorId": "1997379",
+              "name": "Q. Abbasi"
+            },
+            {
+              "authorId": "153338022",
+              "name": "M. Imran"
+            },
+            {
+              "authorId": "2139199675",
+              "name": "Junaid Qadir"
+            }
+          ]
+        },
+        {
+          "paperId": "50e96cb48d5e455bd39839ec69e712ea6b7ad1a5",
+          "title": "Islamic virtue-based ethics for artificial intelligence",
+          "citationCount": 24,
+          "authors": [
+            {
+              "authorId": "98513316",
+              "name": "Amana Raquib"
+            },
+            {
+              "authorId": "2171850085",
+              "name": "Bilal Channa"
+            },
+            {
+              "authorId": "1729578581",
+              "name": "Talat Zubair"
+            },
+            {
+              "authorId": "1734917",
+              "name": "Junaid Qadir"
+            }
+          ]
+        },
+        {
+          "paperId": "2ca1a63863e01eac56259f52e44237ae221e388a",
+          "title": "Generative AI and the Metaverse: A Scoping Review of Ethical and Legal Challenges",
+          "citationCount": 0,
+          "authors": [
+            {
+              "authorId": "2294260930",
+              "name": "Aliya Tabassum"
+            },
+            {
+              "authorId": "118377497",
+              "name": "Ezieddin Elmahjub"
+            },
+            {
+              "authorId": "4805861",
+              "name": "A. Padela"
+            },
+            {
+              "authorId": "3369464",
+              "name": "A. Zwitter"
+            },
+            {
+              "authorId": "2264353365",
+              "name": "Junaid Qadir"
+            }
+          ]
+        },
+        {
+          "paperId": "cf8a741f2419659e8e7672b1fe3d5fad2ca7b164",
+          "title": "Synthetic Authority: Speculating the Future of Leadership in the Age of Human-Autonomy Teams",
+          "citationCount": 1,
+          "authors": [
+            {
+              "authorId": "2421178",
+              "name": "Subhasree Sengupta"
+            },
+            {
+              "authorId": "2171978",
+              "name": "Nathan J. Mcneese"
+            }
+          ]
+        },
+        {
+          "paperId": "4721a2205c60a0aec61bdee0b857a7f627267991",
+          "title": "Developing an Autonomous Trading System: A Case Study on AI Engineering Practices",
+          "citationCount": 0,
+          "authors": [
+            {
+              "authorId": "2060675065",
+              "name": "M. Grote"
+            }
+          ]
+        },
+        {
+          "paperId": "962f49fb2325651d4ad29cd34ed27b876974c6fc",
+          "title": "The dark side of AI A systematic literature review",
+          "citationCount": 0,
+          "authors": [
+            {
+              "authorId": "2279388581",
+              "name": "Emma Corselli"
+            }
+          ]
+        },
+        {
+          "paperId": "b02364ab877be7f412027c769eb368a8c4c10d35",
+          "title": "Telematics and Informatics Reports",
+          "citationCount": 0,
+          "authors": [
+            {
+              "authorId": "31043248",
+              "name": "S. Gill"
+            },
+            {
+              "authorId": "2278422099",
+              "name": "Huaming Wu"
+            },
+            {
+              "authorId": "151473641",
+              "name": "Panos Patros"
+            },
+            {
+              "authorId": "2278217829",
+              "name": "Carlo Ottaviani"
+            },
+            {
+              "authorId": "2219452948",
+              "name": "Priyansh Arora"
+            },
+            {
+              "authorId": "2127779672",
+              "name": "Víctor Casamayor Pujol"
+            },
+            {
+              "authorId": "2278220106",
+              "name": "David Haunschild"
+            },
+            {
+              "authorId": "52050652",
+              "name": "A. Parlikad"
+            },
+            {
+              "authorId": "2278218058",
+              "name": "Oktay Cetinkaya"
+            },
+            {
+              "authorId": "1769104",
+              "name": "H. Lutfiyya"
+            },
+            {
+              "authorId": "3034012",
+              "name": "V. Stankovski"
+            },
+            {
+              "authorId": "2278419445",
+              "name": "Ruidong Li"
+            },
+            {
+              "authorId": "2278266302",
+              "name": "Yuemin Ding"
+            },
+            {
+              "authorId": "2259495664",
+              "name": "Junaid Qadir"
+            },
+            {
+              "authorId": "2254312065",
+              "name": "Ajith Abraham"
+            },
+            {
+              "authorId": "2264987471",
+              "name": "Soumya K. Ghosh"
+            },
+            {
+              "authorId": "2278393403",
+              "name": "Houbing Herbert Song"
+            },
+            {
+              "authorId": "1741531",
+              "name": "R. Sakellariou"
+            },
+            {
+              "authorId": "2244192343",
+              "name": "Omer F. Rana"
+            },
+            {
+              "authorId": "2278826716",
+              "name": "Joel J. P. C. Rodrigues"
+            },
+            {
+              "authorId": "1733096",
+              "name": "S. Kanhere"
+            },
+            {
+              "authorId": "1691109",
+              "name": "S. Dustdar"
+            },
+            {
+              "authorId": "2157668837",
+              "name": "Steve Uhlig"
+            },
+            {
+              "authorId": "1720142",
+              "name": "K. Ramamohanarao"
+            },
+            {
+              "authorId": "1709598",
+              "name": "R. Buyya"
+            },
+            {
+              "authorId": "2282317701",
+              "name": "Elsevier IoT"
+            },
+            {
+              "authorId": "2282317698",
+              "name": "Springer JoS"
+            },
+            {
+              "authorId": "2282320988",
+              "name": "Wiley Ccpe"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paperId": "70a3603c4ad82d480fce266b3e7f7c289d5171b3",
+      "title": "Ethics of Artificial Intelligence",
+      "citationCount": 15,
+      "authors": [
+        {
+          "authorId": "2237679790",
+          "name": "B. C. Stahl"
+        },
+        {
+          "authorId": "2277525461",
+          "name": "Doris Schroeder"
+        },
+        {
+          "authorId": "2416646",
+          "name": "Rowena Rodrigues"
+        }
+      ],
+      "citations": [
+        {
+          "paperId": "86348cb407f69f24c22bf7ef4d76d8baed9aea27",
+          "title": "A CIA Triad-Based Taxonomy of Prompt Attacks on Large Language Models",
+          "citationCount": 0,
+          "authors": [
+            {
+              "authorId": "2348428014",
+              "name": "Nicholas Jones"
+            },
+            {
+              "authorId": "2578202",
+              "name": "Md. Whaiduzzaman"
+            },
+            {
+              "authorId": "2134887719",
+              "name": "Tony Jan"
+            },
+            {
+              "authorId": "2257842906",
+              "name": "Amr Adel"
+            },
+            {
+              "authorId": "9161172",
+              "name": "Ammar Alazab"
+            },
+            {
+              "authorId": "2348416548",
+              "name": "Afnan Alkreisat"
+            }
+          ]
+        },
+        {
+          "paperId": "d6631ec7cebf849b86895592a35aff056504f258",
+          "title": "Learning about AI ethics from cases: a scoping review of AI incident repositories and cases",
+          "citationCount": 0,
+          "authors": [
+            {
+              "authorId": "2276083195",
+              "name": "Simon Knight"
+            },
+            {
+              "authorId": "40083911",
+              "name": "C. McGrath"
+            },
+            {
+              "authorId": "2269470454",
+              "name": "Olga Viberg"
+            },
+            {
+              "authorId": "3398343",
+              "name": "T. Cerratto Pargman"
+            }
+          ]
+        },
+        {
+          "paperId": "98a10bf1d81a880711ed488a3b1c7d963eb271a6",
+          "title": "Integrating artificial intelligence-based technologies ‘safely’ in academic libraries: An overview through a scoping review",
+          "citationCount": 0,
+          "authors": [
+            {
+              "authorId": "2333136939",
+              "name": "Patrick Ngulube"
+            },
+            {
+              "authorId": "2333154079",
+              "name": "Neema Florence Vincent Mosha"
+            }
+          ]
+        },
+        {
+          "paperId": "69f6ef8960e3e984fa9b3dabe75da2bb42f79131",
+          "title": "A systemic perspective on bridging the principles-to-practice gap in creating ethical artificial intelligence solutions  – a critique of dominant narratives and proposal for a collaborative way forward",
+          "citationCount": 1,
+          "authors": [
+            {
+              "authorId": "2274792573",
+              "name": "Christian Herzog"
+            },
+            {
+              "authorId": "2293966455",
+              "name": "Sabrina Blank"
+            }
+          ]
+        },
+        {
+          "paperId": "3b3b13d6cd37b23ff6beffb3ef77458ef6dd0323",
+          "title": "Navigating ethical considerations in the use of artificial intelligence for patient care: A systematic review.",
+          "citationCount": 2,
+          "authors": [
+            {
+              "authorId": "2321736240",
+              "name": "Walaa Badawy"
+            },
+            {
+              "authorId": "2278101997",
+              "name": "Haithm Zinhom"
+            },
+            {
+              "authorId": "2255666565",
+              "name": "Mostafa Shaban"
+            }
+          ]
+        },
+        {
+          "paperId": "f3edbabd7bd9bcde45c75822fef985f9f0be112e",
+          "title": "Towards transformative innovation ecosystems: a systemic approach to responsible innovation",
+          "citationCount": 0,
+          "authors": [
+            {
+              "authorId": "2287273140",
+              "name": "Philipp Neudert"
+            },
+            {
+              "authorId": "2267885956",
+              "name": "Mareike Smolka"
+            },
+            {
+              "authorId": "2328541802",
+              "name": "Stefan Böschen"
+            }
+          ]
+        },
+        {
+          "paperId": "4d7646c42d4de4cff2bb33988310964371822794",
+          "title": "The Convergence of Artificial Intelligence and Privacy: Navigating Innovation with Ethical Considerations",
+          "citationCount": 6,
+          "authors": [
+            {
+              "authorId": "2322589782",
+              "name": "Chris Gilbert"
+            }
+          ]
+        },
+        {
+          "paperId": "a9be85e432a899b8c6dfb8fcdbba5933288fcf8a",
+          "title": "Embedding responsible innovation into R&D practices: a case study of socially assistive robot development",
+          "citationCount": 1,
+          "authors": [
+            {
+              "authorId": "95953365",
+              "name": "D. Lukkien"
+            },
+            {
+              "authorId": "3004138",
+              "name": "H. Nap"
+            },
+            {
+              "authorId": "2315874452",
+              "name": "Minke ter Stal"
+            },
+            {
+              "authorId": "2238004875",
+              "name": "Wouter P. C. Boon"
+            },
+            {
+              "authorId": "2315854292",
+              "name": "Alexander Peine"
+            },
+            {
+              "authorId": "6679689",
+              "name": "M. Minkman"
+            },
+            {
+              "authorId": "2238008355",
+              "name": "Ellen H M Moors"
+            }
+          ]
+        },
+        {
+          "paperId": "9f53bce9339196d9719fe8097688c90fdb046b9e",
+          "title": "Artificial intelligence and depth ontology: implications for intercultural ethics",
+          "citationCount": 3,
+          "authors": [
+            {
+              "authorId": "2272008021",
+              "name": "John P. O’Regan"
+            },
+            {
+              "authorId": "115402986",
+              "name": "Giuliana Ferri"
+            }
+          ]
+        },
+        {
+          "paperId": "a72b9d46de6a5e30552d694724deaea7e40c5a67",
+          "title": "Political Decision-Making in a Digital Context at the Crossroads Between Reflective Equilibrium and Discourse Ethics",
+          "citationCount": 0,
+          "authors": [
+            {
+              "authorId": "2299437238",
+              "name": "Gordon Millar"
+            },
+            {
+              "authorId": "2299443405",
+              "name": "Bruno Frischherz"
+            }
+          ]
+        },
+        {
+          "paperId": "350e05c5ac86d9044baca682f5a80b9048f818b4",
+          "title": "القضايا الأمنية والأخلاقية لاستخدام الذكاء الاصطناعي وعلاقتها بالاتجاه نحو تطبيقاته لدى طلاب الجامعة",
+          "citationCount": 0,
+          "authors": [
+            {
+              "authorId": "2308794255",
+              "name": "Helmy Mohamed Helmy ElFiel"
+            }
+          ]
+        },
+        {
+          "paperId": "920dd756705ca89bc338c1aa1586dffbfb09e1de",
+          "title": "Artificial Intelligence’s Understanding of Religion: Investigating the Moralistic Approaches Presented by Generative Artificial Intelligence Tools",
+          "citationCount": 3,
+          "authors": [
+            {
+              "authorId": "1750478",
+              "name": "Ruth Tsuria"
+            },
+            {
+              "authorId": "2095030742",
+              "name": "Yossi Tsuria"
+            }
+          ]
+        },
+        {
+          "paperId": "bb7f45be5055cebaae56e358051347b46a67e861",
+          "title": "Assessing AI Adoption in the Workplace Through the Theory of Planned Behavior",
+          "citationCount": 0,
+          "authors": [
+            {
+              "authorId": "2857037",
+              "name": "R. Srivastava"
+            },
+            {
+              "authorId": "9048288",
+              "name": "B. Shneikat"
+            },
+            {
+              "authorId": "2302593072",
+              "name": "Sharon Mendoza"
+            },
+            {
+              "authorId": "3453581",
+              "name": "Hamzah Elrehail"
+            },
+            {
+              "authorId": "2302595468",
+              "name": "Mohammed A. Afifi"
+            }
+          ]
+        },
+        {
+          "paperId": "5b18a1a2469d3e1c3e6d3dfcbf96449c61834c1b",
+          "title": "Tips and trips: a structural model of guests’ intentions to stay and tip for AI-based services in hotels",
+          "citationCount": 2,
+          "authors": [
+            {
+              "authorId": "2732290",
+              "name": "C. Morosan"
+            },
+            {
+              "authorId": "2222007481",
+              "name": "Aslıhan Dursun-Cengizci"
+            }
+          ]
+        },
+        {
+          "paperId": "dd5c642fb06bfc9150e16a2f739b752dd7d01dae",
+          "title": "Response to \"Emerging Roles of Virtual Patients in the Age of AI\".",
+          "citationCount": 1,
+          "authors": [
+            {
+              "authorId": "5988439",
+              "name": "Frederick W. Kron"
+            },
+            {
+              "authorId": "7948561",
+              "name": "T. Guetterman"
+            },
+            {
+              "authorId": "6105482",
+              "name": "M. Fetters"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paperId": "9cd1d535c50cc4ebba5db00c686547a2ee542e26",
+      "title": "Imagine a More Ethical AI: Using Stories to Develop Teens' Awareness and Understanding of Artificial Intelligence and its Societal Impacts",
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "2066235698",
+          "name": "Stacey Forsyth"
+        },
+        {
+          "authorId": "47472294",
+          "name": "Bridget Dalton"
+        },
+        {
+          "authorId": "116980195",
+          "name": "E. Foster"
+        },
+        {
+          "authorId": "145357687",
+          "name": "Benjamin Walsh"
+        },
+        {
+          "authorId": "147156741",
+          "name": "J. Smilack"
+        },
+        {
+          "authorId": "1704158",
+          "name": "Tom Yeh"
+        }
+      ],
+      "citations": [
+        {
+          "paperId": "544897185ac9a8d95aa3a4832173e9d2b35580ca",
+          "title": "Critical Artificial Intelligence literacy: A scoping review and framework synthesis",
+          "citationCount": 0,
+          "authors": [
+            {
+              "authorId": "2079715550",
+              "name": "A. Veldhuis"
+            },
+            {
+              "authorId": "2334392535",
+              "name": "Priscilla Y. Lo"
+            },
+            {
+              "authorId": "2301059878",
+              "name": "Sadhbh Kenny"
+            },
+            {
+              "authorId": "2321217947",
+              "name": "A.L.I.S.S.A.N. Antle"
+            }
+          ]
+        },
+        {
+          "paperId": "7d7ee4850ca3eebe52e06d1d214a03b23aad71fc",
+          "title": "Accessible Adventures: Teaching Accessibility to High School Students Through Games",
+          "citationCount": 1,
+          "authors": [
+            {
+              "authorId": "2241354632",
+              "name": "Kyrie Zhixuan Zhou"
+            },
+            {
+              "authorId": "2305584186",
+              "name": "Chunyu Liu"
+            },
+            {
+              "authorId": "2282532361",
+              "name": "Jingwen Shan"
+            },
+            {
+              "authorId": "103097918",
+              "name": "D. Kletenik"
+            },
+            {
+              "authorId": "2290781638",
+              "name": "Rachel F. Adler"
+            }
+          ]
+        },
+        {
+          "paperId": "e73bf705687dc8646957f645b1da7501766ee1b4",
+          "title": "Ethical Governance of Artificial Intelligence: Guiding Youth towards Responsible Digital Citizenship",
+          "citationCount": 0,
+          "authors": [
+            {
+              "authorId": "39231613",
+              "name": "A. Yunus"
+            },
+            {
+              "authorId": "77190010",
+              "name": "Shahzad Mushtaq"
+            },
+            {
+              "authorId": "143807620",
+              "name": "R. Bajwa"
+            },
+            {
+              "authorId": "2317160978",
+              "name": "Muhammad Tahir"
+            }
+          ]
+        },
+        {
+          "paperId": "53474abb9fac51f8293d8df844c143416cf640f0",
+          "title": "Testing, Socializing, Exploring: Characterizing Middle Schoolers’ Approaches to and Conceptions of ChatGPT",
+          "citationCount": 8,
+          "authors": [
+            {
+              "authorId": "2047942607",
+              "name": "Yasmine Belghith"
+            },
+            {
+              "authorId": "2305853109",
+              "name": "Atefeh Mahdavi Goloujeh"
+            },
+            {
+              "authorId": "1691882",
+              "name": "Brian Magerko"
+            },
+            {
+              "authorId": "40413589",
+              "name": "D. Long"
+            },
+            {
+              "authorId": "3132023",
+              "name": "Tom Mcklin"
+            },
+            {
+              "authorId": "2261010202",
+              "name": "Jessica Roberts"
+            }
+          ]
+        },
+        {
+          "paperId": "4b5c4dcc5e39f9a3efa12eb5dd2f6424355be5b2",
+          "title": "Ethical Considerations in the Use of AI for Higher Education: A Comprehensive Guide",
+          "citationCount": 2,
+          "authors": [
+            {
+              "authorId": "2292894580",
+              "name": "ZongXu Li"
+            },
+            {
+              "authorId": "2292753559",
+              "name": "Ajay Dhruv"
+            },
+            {
+              "authorId": "2292754468",
+              "name": "Vijal Jain"
+            }
+          ]
+        },
+        {
+          "paperId": "0334e9afafc4f2458382f04e5e75db100fc9b4b9",
+          "title": "Teenagers and Artificial Intelligence: Bootcamp Experience and Lessons Learned",
+          "citationCount": 3,
+          "authors": [
+            {
+              "authorId": "2114970738",
+              "name": "U. Macar"
+            },
+            {
+              "authorId": "2275053659",
+              "name": "Blake Castleman"
+            },
+            {
+              "authorId": "2275053223",
+              "name": "Noah Mauchly"
+            },
+            {
+              "authorId": "2275403315",
+              "name": "Michael Jiang"
+            },
+            {
+              "authorId": "2275053570",
+              "name": "Asma Aouissi"
+            },
+            {
+              "authorId": "2275053794",
+              "name": "Salma Aouissi"
+            },
+            {
+              "authorId": "2275053560",
+              "name": "Xena Maayah"
+            },
+            {
+              "authorId": "2275053645",
+              "name": "Kaan Erdem"
+            },
+            {
+              "authorId": "2268966258",
+              "name": "Rohith Ravindranath"
+            },
+            {
+              "authorId": "2169298325",
+              "name": "Andrea O Clark-Sevilla"
+            },
+            {
+              "authorId": "2268564045",
+              "name": "Ansaf Salleb-Aouissi"
+            }
+          ]
+        },
+        {
+          "paperId": "a1bc4ed6a595d7b102a79631fb08ce80baaa85db",
+          "title": "Literacy and STEM Teachers Adapt AI Ethics Curriculum",
+          "citationCount": 3,
+          "authors": [
+            {
+              "authorId": "145357687",
+              "name": "Benjamin Walsh"
+            },
+            {
+              "authorId": "47472294",
+              "name": "Bridget Dalton"
+            },
+            {
+              "authorId": "2066235698",
+              "name": "Stacey Forsyth"
+            },
+            {
+              "authorId": "1704158",
+              "name": "Tom Yeh"
+            }
+          ]
+        },
+        {
+          "paperId": "760895e2c8097b599645e495175917da294942a9",
+          "title": "“How technical do you get? I’m an English teacher”: Teaching and Learning Cybersecurity and AI Ethics in High School",
+          "citationCount": 13,
+          "authors": [
+            {
+              "authorId": "121896418",
+              "name": "Zachary Kilhoffer"
+            },
+            {
+              "authorId": "2149135586",
+              "name": "Zhixuan Zhou"
+            },
+            {
+              "authorId": "2224127130",
+              "name": "Firmiana Wang"
+            },
+            {
+              "authorId": "2224099323",
+              "name": "Fahad Tamton"
+            },
+            {
+              "authorId": "2155914010",
+              "name": "Yun Huang"
+            },
+            {
+              "authorId": "2469213",
+              "name": "P. Kim"
+            },
+            {
+              "authorId": "2182531919",
+              "name": "Tom Yeh"
+            },
+            {
+              "authorId": "2155653636",
+              "name": "Yang Wang"
+            }
+          ]
+        },
+        {
+          "paperId": "540bd984b371344f633cb2db3bc21d8af1ae0189",
+          "title": "Strategic Overhaul: Reframing Data Integration for Optimal AI Utilization",
+          "citationCount": 0,
+          "authors": [
+            {
+              "authorId": "2311975610",
+              "name": "Dwi Mariyono"
+            },
+            {
+              "authorId": "2296849088",
+              "name": "Akmal Nur Alif Hidayatullah"
+            }
+          ]
+        },
+        {
+          "paperId": "9cf6cf333796e61c86883a735c8422649ed78f20",
+          "title": "Artificial Intelligence and the Future of Teaching and Learning",
+          "citationCount": 34,
+          "authors": [
+            {
+              "authorId": "2219652649",
+              "name": "Roberto J. Rodríguez"
+            },
+            {
+              "authorId": "120189479",
+              "name": "Kristina Ishmael"
+            }
+          ]
+        },
+        {
+          "paperId": "ce4602ac8ad4c824e22100449a6be82b631f0220",
+          "title": "Introducing Artificial Intelligence Literacy in Schools: A Review of Competence Areas, Pedagogical Approaches, Contexts and Formats",
+          "citationCount": 7,
+          "authors": [
+            {
+              "authorId": "2112857112",
+              "name": "Viktoriya Olari"
+            },
+            {
+              "authorId": "1796276588",
+              "name": "Kamilla Tenório"
+            },
+            {
+              "authorId": "1711129",
+              "name": "R. Romeike"
+            }
+          ]
+        },
+        {
+          "paperId": "e6e4808597ab25ae040cf18c6172173b3ef27f57",
+          "title": "Design and Evaluation of ARIN-561: An Educational Game for Youth Artificial Intelligence Education",
+          "citationCount": 1,
+          "authors": [
+            {
+              "authorId": "2107083973",
+              "name": "Maxyn Leitner"
+            },
+            {
+              "authorId": "51093008",
+              "name": "E. Greenwald"
+            },
+            {
+              "authorId": "47238884",
+              "name": "Ryan Montgomery"
+            },
+            {
+              "authorId": "2256380710",
+              "name": "Ning Wang"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paperId": "e65e36729355900b270f8ce497f1a2d6ca89a01b",
+      "title": "Artificial Intelligence in Newsrooms: Ethical Challenges Facing Journalists",
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "2269511290",
+          "name": "O. Al-Zoubi"
+        },
+        {
+          "authorId": "2269730233",
+          "name": "Normahfuzah Ahmad"
+        },
+        {
+          "authorId": "3094360",
+          "name": "Norsiah Abdul Hamid"
+        }
+      ],
+      "citations": [
+        {
+          "paperId": "1192f657aa7b3a7c85095c122b6d1ea3139829d0",
+          "title": "Digital transformation in journalism: mini review on the impact of AI on journalistic practices",
+          "citationCount": 0,
+          "authors": [
+            {
+              "authorId": "46999921",
+              "name": "Alem Febri Sonni"
+            }
+          ]
+        },
+        {
+          "paperId": "8fe9451a2962882b367558c34a2dedaac3f674b3",
+          "title": "Exploration of Media Ethics in the AI Era: A Case Analysis of Radarsolo.com",
+          "citationCount": 0,
+          "authors": [
+            {
+              "authorId": "2344008291",
+              "name": "Ragil Listiyoningsih"
+            },
+            {
+              "authorId": "65947641",
+              "name": "P. Pawito"
+            },
+            {
+              "authorId": "2249236551",
+              "name": "A. N. Rahmanto"
+            }
+          ]
+        },
+        {
+          "paperId": "49e8ff43d83c756c9ab7ecbfa71ac9178502cc99",
+          "title": "Ethics and journalistic challenges in the age of artificial intelligence: talking with professionals and experts",
+          "citationCount": 0,
+          "authors": [
+            {
+              "authorId": "2308316629",
+              "name": "Beatriz Gutiérrez-Caneda"
+            },
+            {
+              "authorId": "2332258932",
+              "name": "Carl-Gustav Lindén"
+            },
+            {
+              "authorId": "2308318458",
+              "name": "Jorge Vázquez-Herrero"
+            }
+          ]
+        },
+        {
+          "paperId": "8c70967acd13ebefd36ea8746f69c5dbd9434b25",
+          "title": "Using Artificial Intelligence to Detect Violations and Disinformation on Social Media Networks, Including Intellectual Property Rights Infringements",
+          "citationCount": 0,
+          "authors": [
+            {
+              "authorId": "2328883196",
+              "name": "Can Sinan Canpolat"
+            }
+          ]
+        },
+        {
+          "paperId": "1b5d2ac4a60b5235c662014d9f5822cb719f03a6",
+          "title": "The future of artificial intelligence: insights from recent Delphi studies",
+          "citationCount": 1,
+          "authors": [
+            {
+              "authorId": "120504867",
+              "name": "Ido Alon"
+            },
+            {
+              "authorId": "2332037869",
+              "name": "Hazar Haidar"
+            },
+            {
+              "authorId": "2287304447",
+              "name": "Ali Haidar"
+            },
+            {
+              "authorId": "2287432736",
+              "name": "José Guimón"
+            }
+          ]
+        },
+        {
+          "paperId": "18a0f9f42efd19cd5cb3f37f85acde7b2e426771",
+          "title": "Algorithms and Human Rights: The Impact of AI Technology on the Protection of Individual Rights",
+          "citationCount": 0,
+          "authors": [
+            {
+              "authorId": "2328578330",
+              "name": "Muhammad Alfi Fadhlurrahman"
+            },
+            {
+              "authorId": "2326039705",
+              "name": "Stanislaus Riyanta"
+            },
+            {
+              "authorId": "2294258857",
+              "name": "Muhammad Reza Rustam"
+            }
+          ]
+        },
+        {
+          "paperId": "1b4e638fd0747d7578c77888485953d18eafd090",
+          "title": "Digital Newsroom Transformation: A Systematic Review of the Impact of Artificial Intelligence on Journalistic Practices, News Narratives, and Ethical Challenges",
+          "citationCount": 3,
+          "authors": [
+            {
+              "authorId": "46999921",
+              "name": "Alem Febri Sonni"
+            },
+            {
+              "authorId": "2299959078",
+              "name": "Hasdiyanto Hafied"
+            },
+            {
+              "authorId": "2292615357",
+              "name": "Irwanto Irwanto"
+            },
+            {
+              "authorId": "2344008644",
+              "name": "Rido Latuheru"
+            }
+          ]
+        },
+        {
+          "paperId": "df0732bdbe2f4fcc7bea13398bdbaa797d54208d",
+          "title": "AI Applications for News",
+          "citationCount": 0,
+          "authors": [
+            {
+              "authorId": "2264133765",
+              "name": "Sawsan Taha"
+            },
+            {
+              "authorId": "1505916776",
+              "name": "R. Aissani"
+            },
+            {
+              "authorId": "2204093297",
+              "name": "R. Abdallah"
+            }
+          ]
+        },
+        {
+          "paperId": "ba8f8e93c0de006885c506b931c6c51e820fb13b",
+          "title": "Political Communication and Artificial Intelligence: Anticipated Problems and Unexpected Solution",
+          "citationCount": 0,
+          "authors": [
+            {
+              "authorId": "2340809413",
+              "name": "Jan Křeček"
+            }
+          ]
+        },
+        {
+          "paperId": "aabacc18915ca29d835694b4d28dd05186f59ef0",
+          "title": "AI in Slovak Journalism: A Threat or an Opportunity?",
+          "citationCount": 0,
+          "authors": [
+            {
+              "authorId": "2340817108",
+              "name": "Simona Mikušová"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
