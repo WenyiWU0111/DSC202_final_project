@@ -1,9 +1,3 @@
-
-// Create constraints
-CREATE CONSTRAINT paper_id IF NOT EXISTS ON (p:Paper) ASSERT p.paper_id IS UNIQUE;
-CREATE CONSTRAINT author_id IF NOT EXISTS ON (a:Author) ASSERT a.author_id IS UNIQUE;
-CREATE CONSTRAINT keyword_name IF NOT EXISTS ON (k:Keyword) ASSERT k.name IS UNIQUE;
-
 // Load papers
 LOAD CSV WITH HEADERS FROM 'file:///papers.csv' AS row
 CREATE (p:Paper {
