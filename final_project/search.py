@@ -77,9 +77,7 @@ def search_papers_by_keyword(keyword_name):
     # Step 2: Get papers associated with this keyword
     pg_cursor.execute(
     """SELECT p.paper_id, p.title 
-       FROM (
-           SELECT * FROM papers ORDER BY paper_id LIMIT 10000
-       ) AS p
+       FROM papers p
        JOIN paper_keywords pk ON p.paper_id = pk.paper_id
        WHERE pk.keyword_id = %s
        LIMIT 10""",
